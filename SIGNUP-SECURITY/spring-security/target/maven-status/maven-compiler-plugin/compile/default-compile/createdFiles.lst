@@ -1,0 +1,10 @@
+com\techsoft\springsecurity\entity\AuthRequest.class
+com\techsoft\springsecurity\service\UserInfoDetails.class
+com\techsoft\springsecurity\SpringSecurityApplication.class
+com\techsoft\springsecurity\repository\UserInfoRepository.class
+com\techsoft\springsecurity\service\UserInfoService.class
+com\techsoft\springsecurity\config\SecurityConfig.class
+com\techsoft\springsecurity\filter\JwtFilter.class
+com\techsoft\springsecurity\entity\UserInfo.class
+com\techsoft\springsecurity\service\JwtService.class
+com\techsoft\springsecurity\controller\UserController.class
